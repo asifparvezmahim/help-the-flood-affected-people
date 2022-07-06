@@ -1,5 +1,15 @@
 body {
+
     font-family: 'Poppins', sans-serif;
+
+}
+
+.body {
+    border: 1px solid black;
+    margin-left: 50px;
+
+
+
 }
 
 .heading {
@@ -140,8 +150,8 @@ body {
 }
 
 #life-need-2 {
-    border: 2px solid lightgoldenrodyellow;
-    background-color: lightgoldenrodyellow;
+    border: 2px solid lavender;
+    background-color: lavender;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -235,8 +245,25 @@ body {
     padding-left: 80px;
     padding-right: 50px;
 
-    margin-left: 200px;
+    margin-left: 180px;
     margin-right: 250px;
+}
 
+.advice {
+    background-color: black;
+    font-family: 'Parisienne', cursive;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid;
+    border-color: black;
+    margin-left: 50px;
+    margin-right: 0px;
+}
 
+.adv-1 {
+    color: red;
+}
+
+.adv-2 {
+    color: white;
 }
