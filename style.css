@@ -180,3 +180,63 @@ body {
     border-radius: 5px;
 
 }
+
+.last-part {
+    text-align: center;
+}
+
+#footer-one {
+    border: 2px solid gray;
+    background-color: gray;
+
+    margin: auto;
+    padding-right: 8px;
+    margin-top: 5px;
+    padding-right: 80px;
+}
+
+
+
+.e-mail {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#footer-two {
+    color: white;
+    border: 2px solid tomato;
+    background-color: tomato;
+    margin: auto;
+    padding-right: 8px;
+    margin-top: 5px;
+}
+
+.subs {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+}
+
+
+
+
+#footer {
+    display: flex;
+    margin-left: 300px;
+
+}
+
+.box {
+    background-color: wheat;
+    border: 7px solid wheat;
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+    padding-right: 50px;
+
+    margin-left: 200px;
+    margin-right: 250px;
+
+
+}
