@@ -43,19 +43,6 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.second-button {
-    background-color: tomato;
-    border-color: tomato;
-    border-radius: 5px;
-    padding: 10px 20px;
-    margin-left: 680px;
-    margin-top: 30px;
-}
-
-
-
-
-
 
 
 .donation-ammount {
@@ -63,12 +50,19 @@ body {
     text-align: center;
 }
 
+
 .amount {
     display: flex;
     padding-top: 30px;
     padding-left: 37%;
 
 }
+
+
+
+
+
+
 
 #o-hun {
     border: 4px;
@@ -130,6 +124,21 @@ body {
 
 .other-ammount {
     text-align: center;
+}
+
+hr {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+.second-button {
+    background-color: tomato;
+    border-color: tomato;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 680px;
+    margin-top: 30px;
 }
 
 .plan {
