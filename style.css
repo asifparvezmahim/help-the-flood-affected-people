@@ -219,6 +219,8 @@ hr {
 .e-mail {
     padding-top: 5px;
     padding-bottom: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 #footer-two {
@@ -234,6 +236,8 @@ hr {
     padding-top: 5px;
     padding-bottom: 5px;
     padding-right: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 
